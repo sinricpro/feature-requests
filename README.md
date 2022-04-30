@@ -1,5 +1,5 @@
 [![Logo](https://sinric.pro/img/logo.png)](https://sinric.pro/)
-
+**Sinric Pro**
 
 This repo is a new feature request tracker for Sinric Pro.
 
