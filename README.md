@@ -1,4 +1,4 @@
-[![Logo](https://help.sinric.pro/public/img/logo_png/web_hi_res_512.png)](https://sinric.pro/)
+[![Logo](https://sinric.pro/img/logo.png)](https://sinric.pro/)
 
 
 This repo is a new feature request tracker for Sinric Pro.
